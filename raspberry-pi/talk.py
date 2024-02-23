@@ -1,7 +1,10 @@
 # Code for Raspberry Pi Deliverable #1
 # Authors: Ciaran Harris, Luke Canny
 # Date: 23/02/24
-
+# 
+# The purpose of this script is to retrieve and store the data
+# provided by the IoT device for further processing.
+#
 ### Library Imports
 from adafruit_ble import BLERadio
 from adafruit_ble.advertising.standard import ProvideServicesAdvertisement
