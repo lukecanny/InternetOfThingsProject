@@ -1,0 +1,1 @@
+# HostName=CiaranAndLukeIoTHub.azure-devices.net;DeviceId=laptop_test;SharedAccessKey=BbPENAGBd/2FR75UH7IAMZ8VSpsGuLPS4AIoTCAnq4w=
