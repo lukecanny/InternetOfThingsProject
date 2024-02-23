@@ -47,7 +47,7 @@ while True:
                 if not dataIn[-1] == "\n":
                     dataIn = dataIn + "\n"
                 data.append(dataIn[:-1])
-                if index == 30:
+                if index == 50:
                     print("Triggering Plot!")
                     plot_thread = threading.Thread(target=post_process.main, args=(index, data,))
                     plot_thread.start()
